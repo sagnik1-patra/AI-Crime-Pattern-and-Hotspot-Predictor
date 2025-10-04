@@ -1,0 +1,24 @@
+{
+    "records_analyzed": 40160,
+    "predicted_classes": [
+        "Fire Accident",
+        "Other Crime",
+        "Traffic Fatality",
+        "Violent Crime"
+    ],
+    "top_safe_cities": [
+        22,
+        6,
+        26,
+        11,
+        27,
+        19,
+        23,
+        16,
+        3,
+        20
+    ],
+    "forecast_results_sample": {
+        "0": [
+            {
+                "ds": 

@@ -1,0 +1,19 @@
+{
+    "total_records": 40160,
+    "predicted_classes": [
+        "Fire Accident",
+        "Other Crime",
+        "Traffic Fatality",
+        "Violent Crime"
+    ],
+    "class_distribution": {
+        "Other Crime": 22821,
+        "Violent Crime": 13224,
+        "Fire Accident": 3012,
+        "Traffic Fatality": 1103
+    },
+    "visuals": [
+        "prediction_distribution.png",
+        "confusion_heatmap.png"
+    ]
+}
