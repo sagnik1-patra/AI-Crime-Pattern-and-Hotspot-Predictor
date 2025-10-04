@@ -1,0 +1,32 @@
+{
+    "total_records_analyzed": 40160,
+    "total_unique_cities": 29,
+    "top_safe_cities": [
+        20,
+        3,
+        16,
+        23,
+        19,
+        27,
+        11,
+        26,
+        6,
+        22
+    ],
+    "top_risky_cities": [
+        5,
+        17,
+        2,
+        8,
+        13,
+        4,
+        21,
+        1,
+        10,
+        14
+    ],
+    "visuals": [
+        "safe_places.png",
+        "risky_places.png"
+    ]
+}
