@@ -1,0 +1,21 @@
+{
+    "accuracy": 0.8503486055776892,
+    "total_samples": 40160,
+    "feature_columns": [
+        "year",
+        "month",
+        "hour",
+        "victim_age",
+        "city",
+        "victim_gender",
+        "weapon_used",
+        "desc_len"
+    ],
+    "target": "crime_domain",
+    "classes": [
+        "Fire Accident",
+        "Other Crime",
+        "Traffic Fatality",
+        "Violent Crime"
+    ]
+}

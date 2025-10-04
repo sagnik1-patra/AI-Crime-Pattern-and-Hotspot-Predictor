@@ -1,0 +1,11 @@
+accuracy: 0.8503486055776892
+dataset_path: C:\Users\NXTWAVE\Downloads\AI Crime Pattern and Hotspot Predictor\archive\crime_dataset_india.csv
+model_type: RandomForestClassifier
+outputs:
+  h5: C:\Users\NXTWAVE\Downloads\AI Crime Pattern and Hotspot Predictor\processed_crime.h5
+  json: C:\Users\NXTWAVE\Downloads\AI Crime Pattern and Hotspot Predictor\crimescope_report.json
+  pkl: C:\Users\NXTWAVE\Downloads\AI Crime Pattern and Hotspot Predictor\crime_model.pkl
+  visuals:
+  - accuracy_graph.png
+  - confusion_heatmap.png
+project: "CrimeScope \u2014 India Edition"
