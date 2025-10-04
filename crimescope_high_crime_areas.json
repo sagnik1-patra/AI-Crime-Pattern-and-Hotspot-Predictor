@@ -1,0 +1,32 @@
+{
+    "total_records_analyzed": 40160,
+    "total_unique_cities": 29,
+    "high_crime_areas": [
+        5,
+        17,
+        2,
+        8,
+        13,
+        4,
+        21,
+        1,
+        10,
+        14
+    ],
+    "crime_counts_top10": {
+        "5": 5400,
+        "17": 4415,
+        "2": 3588,
+        "8": 2881,
+        "13": 2518,
+        "4": 2493,
+        "21": 2212,
+        "1": 1817,
+        "10": 1479,
+        "14": 1456
+    },
+    "visuals": [
+        "high_crime_areas.png",
+        null
+    ]
+}
